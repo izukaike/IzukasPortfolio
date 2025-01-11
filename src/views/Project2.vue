@@ -23,12 +23,13 @@
         <div class="action-box">
           <h2 class="details">Project Details  :</h2>
           <p>
-            Because of my internship with SpaceX and upcoming graduation I would not be able to 
-            be present for testing and debugging so I approached the design with a consumer product 
-            mindset making the interactions with my work as easy for the software and mechanical 
-            engineers and non-technical team members as easy as possible. Because Baylor Aero had its
-             funding pulling, the need to be scrappy on budget was paramount so I used all in house
-              parts and hand soldered all connections.
+            Because of my internship with SpaceX and upcoming graduation, I would not be able to 
+            be present for testing and debugging so all the work was going to be used by software and mechanical 
+            engineers and non-technical team members so I approached the design with a consumer product 
+            mindset making the interactions with my work as as possible. Because Baylor Aero had its
+             funding pulled, the need to be scrappy on budget was paramount so I used all in house
+              parts and hand soldered all connections. The hardware goes in a box so all the needed is to plug in
+              RJ45 cables for actuators and sensors and USB cable for power.
         </p>
           
         </div>
@@ -93,7 +94,7 @@
 </p>
             <u1>
               <li> Replaced IEC Pigtail with USB to be able to recharge locally from laptop while in the field </li>
-              <li> Disabled 2 recharge controller chips and rerouted Battery Paths from series to parallel </li>
+              <li> Disabled 2 recharge controller chips and rerouted Battery power from series to parallel </li>
               <li> Installed a Buck Converter to USB connector for votlage control and easy interface with HW box  </li>
             </u1>
 </div>
@@ -110,7 +111,7 @@
             </p>
             <ul class="aligned-list2">
                 <li>4 DAC Array serving as a Signal Generator</li>
-                <li>1 ADC for Load Impedance</li>
+                <li>1 ADC for the Load</li>
                 <li>Bare-Metal C++ for DAC Control from MCU</li>
                 <li>Oscilliscope Automated Data Collection using Python </li>
             </ul>
