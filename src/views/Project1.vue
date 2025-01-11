@@ -26,9 +26,9 @@
         <div class="action-box">
           <h2 class="details">Project Details  :</h2>
           <p>
-          This is was my first crack at a hardware project on a project so most
+          This is was my first try at a hardware project so most
           of our options were limited to free avaialable parts that we could find in our lab
-          which gave me the opportunity to highly adaptable, creative, and result to crude solutions
+          which gave me the opportunity to be highly adaptable, creative, and hands-on to make crude solutions
           to get the job done
         </p>
           
@@ -62,9 +62,9 @@
       <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- EEPROM</li>
       <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- UART</li>
     </ul>
-    <li>Relays Logic for Valves and LS2 Coil</li>
+    <li>Relays for Logic for Valves and LS2 Coil</li>
     <li>Buck Converter for Power Management</li>
-    <li>- EMI Safe Covering</li>
+    <li>EMI Safe Covering</li>
     <li>USB Cable for UART Communication to PC</li>
   </ul>
 </div>
