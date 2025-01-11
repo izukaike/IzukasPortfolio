@@ -50,6 +50,7 @@
       stage based off the the LEGv8 ISA from ARM. This processor taught me the details on..
   </p>
   <ul class="aligned-list1">
+      <li>Computer Architecture</li>
       <li>Parallel Processing</li>
       <li>Advanced Assembly Programming and Machine Code</li>
       <li>Efficient Memory Interfacing</li>
@@ -73,7 +74,7 @@
 
             </p>
             <u1 class="aligned-list2">
-                <li >DDR Protocols Activate, Precahrge, Read, and Write</li>
+                <li >DDR Protocols Like Activating, Precahrging, Reading, and Writing</li>
                 <li >DDR Addressing and Hardware (Banks, Columns, and Rows)</li>
                 <li >Phased-Locked Loop (PLL) and MMCM(Mixed-Mode Clock Manager) and Flag Sync</li>
                 <li >FSM (Finite State-Machine) Logic</li>
@@ -122,7 +123,7 @@
                 <li >Advanced Processor Design and Computer Architecture</li>
                 <li >Transistor and Logic Gate Utilization </li>
                 <li >Memory Management Design</li>
-                <li >CLI</li>
+                <li >Command Line Interface</li>
             </u1>
         </div>
       </div>
