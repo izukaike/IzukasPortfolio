@@ -3,17 +3,17 @@
       <!--<h2 class="title is-4" style="font-size: 1.25rem">About Me</h2>-->
       <div class="bio-box">
       <p>
-        <strong>About Me&nbsp;:&nbsp;&nbsp;</strong>I am a senior Electrical and 
-        Computer Engineering student with minors in Computer Science and Mathematics
-        at Baylor University. I am passionate about learning, designing, developing,
-        and testing smart, fast, reliable, and efficient analog and digital
-        solutions, as demonstrated by my experience in circuit design and software 
-        automation at SpaceX, FPGA-based design at Lockheed Martin, and
-        electrical infrastructure data acquisition at ExxonMobil. As a 4x Dean’s List
-        honoree, Computing for Compassion Vice-President, and Master STEM Tutor, I
-        am also the Lead Electrical Engineer for Baylor’s Aerospace Engineering Club,
-        spearheading the complete design of 2 liquid-fueled rocket engines and independently
-        developed my own pipelined 64-bit ARM processor.
+        <strong>About Me&nbsp;:&nbsp;&nbsp;</strong>I am a senior Electrical and Computer Engineering
+          student at Baylor University with minors in Computer Science and Mathematics. I am passionate
+          about making hands-on innovative solutions in embedded hardware and software and digital design.
+          My experience spans designing analog and digital systems at SpaceX, developing FPGA-based hardware
+          at Lockheed Martin, and automating power systems at ExxonMobil. As the Lead Engineer for Baylor’s
+          Aerospace Engineering Club, I’ve spearheaded the development of two liquid-fueled rocket systems,
+          focusing on data acquisition, telemetry, software, and hardware design. I also independently built
+          a pipelined 64-bit ARM processor, combining my passion for system-level design and high-performance
+          computing. Feel free to reach out at any of my contacts below!
+
+
       </p>
     </div>
     </div>
