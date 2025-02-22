@@ -32,7 +32,7 @@
         <!-- Pictures Section -->
         <!--<div class="columns is-centered">-->
           <div class="column is-centered">
-            <img src="https://raw.githubusercontent.com/izukaike/Images/main/computing_system.png" alt="Picture 1" class="image1" />
+            <img src="https://raw.githubusercontent.com/izukaike/Images/main/fpga_pic.png" alt="Picture 1" class="image1" />
           </div>
           
           <p class="content-center">
