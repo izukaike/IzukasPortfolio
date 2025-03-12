@@ -50,8 +50,9 @@
           <img src="https://raw.githubusercontent.com/izukaike/Images/main/v1_Circuit.png" alt="Picture 2" class="image2" />
          
           <div class="content-center">
-         -->
+         
               <div class="content-center">
+         -->
 <p class="label">
   This is the main Control and Data Acquisition Electronics featuring...
 </p>
