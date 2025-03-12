@@ -45,10 +45,12 @@
            control a spark plug for ignition, regulate battery power, communicate data from Arduino to PC, access rocket engine through GUI.
         </p>
         <!--<div class="columns is-multiline">-->
+        <!--
         <div class="column is-centered">
           <img src="https://raw.githubusercontent.com/izukaike/Images/main/v1_Circuit.png" alt="Picture 2" class="image2" />
          
           <div class="content-center">
+         -->
               <div class="content-center">
 <p class="label">
   This is the main Control and Data Acquisition Electronics featuring...
