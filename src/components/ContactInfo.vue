@@ -3,7 +3,7 @@
     <div class="box contact-box">
       <!--<h2 class="title is-1"style="font-size: 1.5rem;">Contact Info</h2>-->
       <ul>
-        <li style="font-weight: bold;font-size: 1.1rem" >Contact Info:&nbsp;&nbsp;Email: <a href="mailto:IzukaIkedionwu@gmail.com">IzukaIkedionwu@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspGitHub: <a href="https://github.com/izukaike?tab=repositories" target="_blank">IzukaIke</a>
+        <li style="font-weight: bold;font-size: 1.1rem" >Contact Info:&nbsp;&nbsp;Email: <a href="mailto:IzukaIkedionwu@gmail.com">IzukaIkedionwu@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub: <a href="https://github.com/izukaike?tab=repositories" target="_blank">IzukaIke</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: <a href="https://www.linkedin.com/in/izuka-ikedionwu/" target="_blank">izuka-ikedionwu</a></li>
         <!--<li>GitHub: <a href="https://github.com/izukaike?tab=repositories" target="_blank">IzukaIke</a></li>-->
         <!--<li>Resume: <a href="Izuka_Ikedionwu_Resume.pdf" target="_blank">ECE Resume</a></li>-->
