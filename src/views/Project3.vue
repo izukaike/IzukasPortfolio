@@ -28,20 +28,24 @@
         </p>
           
         </div>
+        <p class="content-center">
+             This is the main outline of the computing system featuring an assembler, UART interface and pipelined processor, Memory
+             controller and LED lights for visual feedback
+          </p>
   
         <!-- Pictures Section -->
         <!--<div class="columns is-centered">-->
           <div class="column is-centered">
-            <img src="https://raw.githubusercontent.com/izukaike/Images/main/fpga_pic.png" alt="Picture 1" class="image1" />
+            <img src="https://raw.githubusercontent.com/izukaike/Images/main/computing_system.png" alt="Picture 1" class="image1" />
+          </div>
+
+          <div class="column is-centered">
+            <img src="https://raw.githubusercontent.com/izukaike/Images/main/Comp_Sys_Machine.png" alt="Picture 1" class="image1" />
           </div>
           
-          <p class="content-center">
-             This is the main outline of the computing system featuring an assembler, UART interface and pipelined processor, Memory
-             controller and LED lights for visual feedback
-          </p>
           <!--<div class="columns is-multiline">-->
           <div class="column is-centered">
-            <img src="https://raw.githubusercontent.com/izukaike/Images/main/pipeline_picture.png" alt="Picture 2" class="image2" />
+            <img src="https://raw.githubusercontent.com/izukaike/Images/main/processor_pic.png" alt="Picture 2" class="image2" />
            
             <div class="content-center">
                 <div class="content-center">
@@ -50,7 +54,6 @@
       stage based off the the LEGv8 ISA from ARM. This processor taught me the details on..
   </p>
   <ul class="aligned-list1">
-      <li>Computer Architecture</li>
       <li>Parallel Processing</li>
       <li>Advanced Assembly Programming and Machine Code</li>
       <li>Efficient Memory Interfacing</li>
@@ -74,7 +77,7 @@
 
             </p>
             <u1 class="aligned-list2">
-                <li >DDR Protocols Like Activating, Precahrging, Reading, and Writing</li>
+                <li >DDR Protocols Activate, Precahrge, Read, and Write</li>
                 <li >DDR Addressing and Hardware (Banks, Columns, and Rows)</li>
                 <li >Phased-Locked Loop (PLL) and MMCM(Mixed-Mode Clock Manager) and Flag Sync</li>
                 <li >FSM (Finite State-Machine) Logic</li>
@@ -123,7 +126,7 @@
                 <li >Advanced Processor Design and Computer Architecture</li>
                 <li >Transistor and Logic Gate Utilization </li>
                 <li >Memory Management Design</li>
-                <li >Command Line Interface</li>
+                <li >CLI</li>
             </u1>
         </div>
       </div>
