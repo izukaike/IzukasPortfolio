@@ -98,7 +98,7 @@
 <div class="columns">
     <!-- First Column -->
     <div class="column is-one-third">
-        <img src="https://raw.githubusercontent.com/izukaike/Images/main/battery_package.jpg" alt="Picture 8" class="image8" />
+        <img src="https://raw.githubusercontent.com/izukaike/Images/main/battery.jpg" alt="Picture 8" class="image8" />
     </div>
 
     <div class="column is-one-third">
